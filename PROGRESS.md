@@ -16,14 +16,14 @@ This file records my progress in solving LeetCode problems as part of the Portfo
 
 | Date | Problem | Topic | Difficulty | Status | Time Taken |
 |------|---------|-------|------------|--------|------------|
-| DD/MM/YYYY | Two Sum | Arrays & Strings | Easy | ✅ Solved | -- |
-| DD/MM/YYYY | Reverse a String | Arrays & Strings | Easy | ✅ Solved | -- |
-| DD/MM/YYYY | Valid Anagram | Arrays & Strings | Easy | ✅ Solved | -- |
-| DD/MM/YYYY | Best Time to Buy and Sell Stock | Arrays & Strings | Easy–Medium | ✅ Solved | -- |
-| DD/MM/YYYY | Longest Common Prefix | Arrays & Strings | Easy–Medium | ✅ Solved | -- |
-| DD/MM/YYYY | Binary Search | Basic Algorithms | Easy–Medium | ✅ Solved | -- |
-| DD/MM/YYYY | Move Zeroes | Basic Algorithms | Easy–Medium | ✅ Solved | -- |
-| DD/MM/YYYY | Valid Parentheses | Stacks | Easy–Medium | ✅ Solved | -- |
+| 24/09/2026 | Two Sum | Arrays & Strings | Easy | ✅ Solved | -- |
+| 25/09/2026 | Reverse a String | Arrays & Strings | Easy | ✅ Solved | -- |
+| 19/09/2026 | Valid Anagram | Arrays & Strings | Easy | ✅ Solved | -- |
+| 20/09/2026 | Best Time to Buy and Sell Stock | Arrays & Strings | Easy–Medium | ✅ Solved | -- |
+| 15/09/2026 | Longest Common Prefix | Arrays & Strings | Easy–Medium | ✅ Solved | -- |
+| 20/09/2026 | Binary Search | Basic Algorithms | Easy–Medium | ✅ Solved | -- |
+| 21/09/2026 | Move Zeroes | Basic Algorithms | Easy–Medium | ✅ Solved | -- |
+| 21/09/2026 | Valid Parentheses | Stacks | Easy–Medium | ✅ Solved | -- |
 
 ## Summary
 
