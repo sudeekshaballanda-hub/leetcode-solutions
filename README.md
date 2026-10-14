@@ -6,6 +6,18 @@
 **Semester:** 3rd Semester  
 **Branch:** CSIT
 
+## Projects
+
+### LeetCode Solutions
+A collection of my C programming solutions to LeetCode problems, organized by topic and documented with approaches, test cases, and complexity analysis.
+
+**Repository:** https://github.com/sudeekshaballanda-hub/leetcode-solutions
+
+### Personal Portfolio
+A portfolio website showcasing my projects, technical skills, and learning journey.
+
+**Live Website:** https://sudeekshaballanda-hub.github.io/
+
 > Personal LeetCode practice log — part of B25GE0101 portfolio
 
 ## About This Repository
